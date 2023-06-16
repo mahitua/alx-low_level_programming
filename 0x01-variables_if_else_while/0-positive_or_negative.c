@@ -13,7 +13,7 @@ int main(void)
 					/* your code goes there */
 				if (n > 0)
 				{
-				printf("is positive\n");
+				printf("98 is positive\n");
 				}
 				else if (n == 0)
 				{
@@ -21,7 +21,7 @@ int main(void)
 				}
 				else if (n < 0)
 				{
-				printf("is negative\n");
+				printf("-98 is negative\n");
 				}
 				return (0);
 				}
