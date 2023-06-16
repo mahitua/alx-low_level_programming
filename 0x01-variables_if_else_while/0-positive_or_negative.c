@@ -4,7 +4,7 @@
 /**
   * rand - assign a random number to the variable n each time executed
   *
-  * Return: returns 0 if successful
+  * Return: returns 0 positive or negative
   */
 /* more headers goes there */
 
