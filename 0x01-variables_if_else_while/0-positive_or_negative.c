@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/* betty style doc for function main goes there is the program will assign random number to n */
 int main(void)
 {
 		int n;
@@ -13,7 +13,7 @@ int main(void)
 					/* your code goes there */
 				if (n > 0)
 				{
-				printf("10 is positive\n");
+				printf("98 is positive\n");
 				}
 				else if (n == 0)
 				{
