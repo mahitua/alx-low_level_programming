@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
 * main- entry point
-* Description: 'print lowercase letters except e and q'
-* return:  Always 0
-**/
+* Description: 'prints the alphabet in lowercase'
+* Return: Always 0
+*/
 int main(void)
 {
 char letter = 'a';
