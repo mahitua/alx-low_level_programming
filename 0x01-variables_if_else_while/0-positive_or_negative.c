@@ -1,9 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/**
+  * rand - assign a random number to the variable n each time executed
+  *
+  * Return: returns 0 if successful
+  */
 /* more headers goes there */
 
-/* betty style doc for function main goes there is the program will assign random number to n */
+/* betty style doc for function main goes there  */
 int main(void)
 {
 		int n;
