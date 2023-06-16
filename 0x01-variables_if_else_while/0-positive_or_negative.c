@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-  * rand - assign a random number to the variable n each time executed
-  *
-  * Return: returns 0 positive or negative
+  * main - Entry point
+  * Description : a random number to the variable n each time executed
+  * Return: 0
   */
 /* more headers goes there */
 
@@ -13,7 +13,7 @@ int main(void)
 {
 		int n;
 
-			srand(time(0));
+				srand(time(0));
 				n = rand() - RAND_MAX / 2;
 					/* your code goes there */
 				if (n > 0)
