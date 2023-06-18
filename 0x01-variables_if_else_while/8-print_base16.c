@@ -10,11 +10,11 @@ int i;
 char ch;
 for (ch = 0; ch <= 10; ch++)
 {
-for (i = 0; i <= 7; i++)
-{
-	putchar(i+48);
+	 putchar(ch + 48);
 }
-	putchar(i+97);
+	 for (i = 1; i <= 7; i++)
+{
+	putchar(i + 97);
 }
 return (0);
 }
