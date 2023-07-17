@@ -1,6 +1,6 @@
-#ifndef Function-like macro_H
-#define Function-like macro_H
+#ifndef SUM_H
+#define SUM_H
 
-#define SUM(x, y) sum ((x) + (y) )
+#define SUM(x,y) SUM((x) + (y))
 
 #endif
